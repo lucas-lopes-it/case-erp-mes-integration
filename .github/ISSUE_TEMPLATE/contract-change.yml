@@ -1,0 +1,29 @@
+name: Contract change proposal
+description: Propose a change to what crosses between the ERP and the shop floor
+labels: [contract]
+body:
+  - type: textarea
+    id: current
+    attributes:
+      label: What the contract says today
+      description: The rule or field, with an example order.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What it should say
+    validations:
+      required: true
+  - type: textarea
+    id: owner
+    attributes:
+      label: Who owns the change
+      description: Production planning, the ERP side or the MES vendor, and who needs to agree.
+    validations:
+      required: true
+  - type: textarea
+    id: cost
+    attributes:
+      label: Accepted cost
+      description: What is lost by adopting the proposal.

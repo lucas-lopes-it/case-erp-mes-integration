@@ -1,0 +1,21 @@
+name: Bug
+description: Something doesn't work the way the documentation describes
+labels: [bug]
+body:
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened
+      description: Include the command and the output. Don't paste keys or real data.
+    validations:
+      required: true
+  - type: input
+    id: node
+    attributes:
+      label: Node version

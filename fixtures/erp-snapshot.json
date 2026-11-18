@@ -1,0 +1,1540 @@
+{
+  "note": "Fictional ERP snapshot. Product codes, descriptions, lines and orders were generated for this reconstruction.",
+  "integratedLines": [
+    "LINE-A",
+    "LINE-B",
+    "LINE-C",
+    "LINE-D"
+  ],
+  "products": [
+    {
+      "productCode": 1001,
+      "description": "Wall fan 1m 127V black",
+      "active": true
+    },
+    {
+      "productCode": 1002,
+      "description": "Desk fan 40cm 220V black",
+      "active": true
+    },
+    {
+      "productCode": 1003,
+      "description": "Pedestal fan 50cm bivolt black",
+      "active": true
+    },
+    {
+      "productCode": 1004,
+      "description": "Tower fan 30cm 127V black",
+      "active": true
+    },
+    {
+      "productCode": 1005,
+      "description": "Ceiling fan 3 blades 220V black",
+      "active": true
+    },
+    {
+      "productCode": 1006,
+      "description": "Turbo fan 50cm bivolt black",
+      "active": true
+    },
+    {
+      "productCode": 1007,
+      "description": "Floor fan 60cm 127V black",
+      "active": true
+    },
+    {
+      "productCode": 1008,
+      "description": "Mini fan 20cm 220V black",
+      "active": true
+    },
+    {
+      "productCode": 1009,
+      "description": "Industrial fan 1m bivolt black",
+      "active": true
+    },
+    {
+      "productCode": 1010,
+      "description": "Wall fan 60cm 127V black",
+      "active": true
+    },
+    {
+      "productCode": 1011,
+      "description": "Wall fan 1m 220V white",
+      "active": true
+    },
+    {
+      "productCode": 1012,
+      "description": "Desk fan 40cm bivolt white",
+      "active": true
+    },
+    {
+      "productCode": 1013,
+      "description": "Pedestal fan 50cm 127V white",
+      "active": true
+    },
+    {
+      "productCode": 1014,
+      "description": "Tower fan 30cm 220V white",
+      "active": true
+    },
+    {
+      "productCode": 1015,
+      "description": "Ceiling fan 3 blades bivolt white",
+      "active": true
+    },
+    {
+      "productCode": 1016,
+      "description": "Turbo fan 50cm 127V white",
+      "active": true
+    },
+    {
+      "productCode": 1017,
+      "description": "Floor fan 60cm 220V white",
+      "active": true
+    },
+    {
+      "productCode": 1018,
+      "description": "Mini fan 20cm bivolt white",
+      "active": true
+    },
+    {
+      "productCode": 1019,
+      "description": "Industrial fan 1m 127V white",
+      "active": true
+    },
+    {
+      "productCode": 1020,
+      "description": "Wall fan 60cm 220V white",
+      "active": true
+    },
+    {
+      "productCode": 1021,
+      "description": "Wall fan 1m bivolt grey",
+      "active": true
+    },
+    {
+      "productCode": 1022,
+      "description": "Desk fan 40cm 127V grey",
+      "active": true
+    },
+    {
+      "productCode": 1023,
+      "description": "Pedestal fan 50cm 220V grey",
+      "active": true
+    },
+    {
+      "productCode": 1024,
+      "description": "Tower fan 30cm bivolt grey",
+      "active": true
+    },
+    {
+      "productCode": 1101,
+      "description": "Pedestal fan 50cm bivolt black",
+      "active": true
+    },
+    {
+      "productCode": 1102,
+      "description": "Turbo fan 40cm premium 220V",
+      "active": true
+    },
+    {
+      "productCode": 1201,
+      "description": "Wall fan 1m chrome 127V",
+      "active": false
+    },
+    {
+      "productCode": 1202,
+      "description": "Desk fan 30cm 127V",
+      "active": false
+    },
+    {
+      "productCode": 2000,
+      "description": "Legacy item 1",
+      "active": true
+    },
+    {
+      "productCode": 2001,
+      "description": "Legacy item 2",
+      "active": true
+    },
+    {
+      "productCode": 2002,
+      "description": "Legacy item 3",
+      "active": false
+    },
+    {
+      "productCode": 2003,
+      "description": "Legacy item 4",
+      "active": true
+    },
+    {
+      "productCode": 2004,
+      "description": "Legacy item 5",
+      "active": false
+    },
+    {
+      "productCode": 2005,
+      "description": "Legacy item 6",
+      "active": true
+    },
+    {
+      "productCode": 2006,
+      "description": "Legacy item 7",
+      "active": true
+    },
+    {
+      "productCode": 2007,
+      "description": "Legacy item 8",
+      "active": true
+    },
+    {
+      "productCode": 2008,
+      "description": "Legacy item 9",
+      "active": true
+    },
+    {
+      "productCode": 2009,
+      "description": "Legacy item 10",
+      "active": false
+    },
+    {
+      "productCode": 2010,
+      "description": "Legacy item 11",
+      "active": true
+    },
+    {
+      "productCode": 2011,
+      "description": "Legacy item 12",
+      "active": true
+    },
+    {
+      "productCode": 2012,
+      "description": "Legacy item 13",
+      "active": true
+    },
+    {
+      "productCode": 2013,
+      "description": "Legacy item 14",
+      "active": true
+    },
+    {
+      "productCode": 2014,
+      "description": "Legacy item 15",
+      "active": true
+    },
+    {
+      "productCode": 2015,
+      "description": "Legacy item 16",
+      "active": true
+    },
+    {
+      "productCode": 2016,
+      "description": "Legacy item 17",
+      "active": true
+    },
+    {
+      "productCode": 2017,
+      "description": "Legacy item 18",
+      "active": false
+    },
+    {
+      "productCode": 2018,
+      "description": "Legacy item 19",
+      "active": false
+    },
+    {
+      "productCode": 2019,
+      "description": "Legacy item 20",
+      "active": false
+    },
+    {
+      "productCode": 2020,
+      "description": "Legacy item 21",
+      "active": true
+    },
+    {
+      "productCode": 2021,
+      "description": "Legacy item 22",
+      "active": false
+    },
+    {
+      "productCode": 2022,
+      "description": "Legacy item 23",
+      "active": true
+    },
+    {
+      "productCode": 2023,
+      "description": "Legacy item 24",
+      "active": true
+    },
+    {
+      "productCode": 2024,
+      "description": "Legacy item 25",
+      "active": true
+    },
+    {
+      "productCode": 2025,
+      "description": "Legacy item 26",
+      "active": true
+    },
+    {
+      "productCode": 2026,
+      "description": "Legacy item 27",
+      "active": true
+    },
+    {
+      "productCode": 2027,
+      "description": "Legacy item 28",
+      "active": true
+    },
+    {
+      "productCode": 2028,
+      "description": "Legacy item 29",
+      "active": true
+    },
+    {
+      "productCode": 2029,
+      "description": "Legacy item 30",
+      "active": true
+    },
+    {
+      "productCode": 2030,
+      "description": "Legacy item 31",
+      "active": true
+    },
+    {
+      "productCode": 2031,
+      "description": "Legacy item 32",
+      "active": true
+    },
+    {
+      "productCode": 2032,
+      "description": "Legacy item 33",
+      "active": true
+    },
+    {
+      "productCode": 2033,
+      "description": "Legacy item 34",
+      "active": true
+    },
+    {
+      "productCode": 2034,
+      "description": "Legacy item 35",
+      "active": false
+    },
+    {
+      "productCode": 2035,
+      "description": "Legacy item 36",
+      "active": false
+    },
+    {
+      "productCode": 2036,
+      "description": "Legacy item 37",
+      "active": true
+    },
+    {
+      "productCode": 2037,
+      "description": "Legacy item 38",
+      "active": true
+    },
+    {
+      "productCode": 2038,
+      "description": "Legacy item 39",
+      "active": true
+    },
+    {
+      "productCode": 2039,
+      "description": "Legacy item 40",
+      "active": true
+    },
+    {
+      "productCode": 2040,
+      "description": "Legacy item 41",
+      "active": false
+    },
+    {
+      "productCode": 2041,
+      "description": "Legacy item 42",
+      "active": true
+    },
+    {
+      "productCode": 2042,
+      "description": "Legacy item 43",
+      "active": false
+    },
+    {
+      "productCode": 2043,
+      "description": "Legacy item 44",
+      "active": false
+    },
+    {
+      "productCode": 2044,
+      "description": "Legacy item 45",
+      "active": true
+    },
+    {
+      "productCode": 2045,
+      "description": "Legacy item 46",
+      "active": true
+    },
+    {
+      "productCode": 2046,
+      "description": "Legacy item 47",
+      "active": true
+    },
+    {
+      "productCode": 2047,
+      "description": "Legacy item 48",
+      "active": true
+    },
+    {
+      "productCode": 2048,
+      "description": "Legacy item 49",
+      "active": true
+    },
+    {
+      "productCode": 2049,
+      "description": "Legacy item 50",
+      "active": true
+    },
+    {
+      "productCode": 2050,
+      "description": "Legacy item 51",
+      "active": false
+    },
+    {
+      "productCode": 2051,
+      "description": "Legacy item 52",
+      "active": false
+    },
+    {
+      "productCode": 2052,
+      "description": "Legacy item 53",
+      "active": false
+    },
+    {
+      "productCode": 2053,
+      "description": "Legacy item 54",
+      "active": true
+    },
+    {
+      "productCode": 2054,
+      "description": "Legacy item 55",
+      "active": false
+    },
+    {
+      "productCode": 2055,
+      "description": "Legacy item 56",
+      "active": true
+    },
+    {
+      "productCode": 2056,
+      "description": "Legacy item 57",
+      "active": false
+    },
+    {
+      "productCode": 2057,
+      "description": "Legacy item 58",
+      "active": false
+    },
+    {
+      "productCode": 2058,
+      "description": "Legacy item 59",
+      "active": false
+    },
+    {
+      "productCode": 2059,
+      "description": "Legacy item 60",
+      "active": true
+    }
+  ],
+  "formulas": [
+    {
+      "productCode": 1001,
+      "cycleSeconds": 25,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 5,
+      "active": true
+    },
+    {
+      "productCode": 1002,
+      "cycleSeconds": 42,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 3,
+      "active": true
+    },
+    {
+      "productCode": 1003,
+      "cycleSeconds": 36,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 5,
+      "active": true
+    },
+    {
+      "productCode": 1004,
+      "cycleSeconds": 36,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 8,
+      "active": true
+    },
+    {
+      "productCode": 1005,
+      "cycleSeconds": 22,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 3,
+      "active": true
+    },
+    {
+      "productCode": 1006,
+      "cycleSeconds": 30,
+      "setupMinutes": 20,
+      "stopToleranceMinutes": 3,
+      "active": true
+    },
+    {
+      "productCode": 1007,
+      "cycleSeconds": 22,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 8,
+      "active": true
+    },
+    {
+      "productCode": 1008,
+      "cycleSeconds": 30,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 8,
+      "active": true
+    },
+    {
+      "productCode": 1009,
+      "cycleSeconds": 18,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 8,
+      "active": true
+    },
+    {
+      "productCode": 1010,
+      "cycleSeconds": 42,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 8,
+      "active": true
+    },
+    {
+      "productCode": 1011,
+      "cycleSeconds": 36,
+      "setupMinutes": 20,
+      "stopToleranceMinutes": 3,
+      "active": true
+    },
+    {
+      "productCode": 1012,
+      "cycleSeconds": 22,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 8,
+      "active": true
+    },
+    {
+      "productCode": 1013,
+      "cycleSeconds": 22,
+      "setupMinutes": 20,
+      "stopToleranceMinutes": 5,
+      "active": true
+    },
+    {
+      "productCode": 1014,
+      "cycleSeconds": 22,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 8,
+      "active": true
+    },
+    {
+      "productCode": 1015,
+      "cycleSeconds": 25,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 3,
+      "active": true
+    },
+    {
+      "productCode": 1016,
+      "cycleSeconds": 36,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 5,
+      "active": true
+    },
+    {
+      "productCode": 1017,
+      "cycleSeconds": 18,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 8,
+      "active": true
+    },
+    {
+      "productCode": 1018,
+      "cycleSeconds": 18,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 5,
+      "active": true
+    },
+    {
+      "productCode": 1019,
+      "cycleSeconds": 42,
+      "setupMinutes": 20,
+      "stopToleranceMinutes": 5,
+      "active": true
+    },
+    {
+      "productCode": 1020,
+      "cycleSeconds": 30,
+      "setupMinutes": 20,
+      "stopToleranceMinutes": 5,
+      "active": true
+    },
+    {
+      "productCode": 1021,
+      "cycleSeconds": 25,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 3,
+      "active": true
+    },
+    {
+      "productCode": 1022,
+      "cycleSeconds": 42,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 3,
+      "active": true
+    },
+    {
+      "productCode": 1023,
+      "cycleSeconds": 36,
+      "setupMinutes": 20,
+      "stopToleranceMinutes": 8,
+      "active": true
+    },
+    {
+      "productCode": 1024,
+      "cycleSeconds": 30,
+      "setupMinutes": 20,
+      "stopToleranceMinutes": 8,
+      "active": true
+    },
+    {
+      "productCode": 1101,
+      "cycleSeconds": 25,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 5,
+      "active": true
+    },
+    {
+      "productCode": 1102,
+      "cycleSeconds": 28,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 1201,
+      "cycleSeconds": 30,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 5,
+      "active": true
+    },
+    {
+      "productCode": 1202,
+      "cycleSeconds": 30,
+      "setupMinutes": 15,
+      "stopToleranceMinutes": 5,
+      "active": true
+    },
+    {
+      "productCode": 2000,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2001,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2002,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2003,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2004,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2005,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2006,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2007,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2008,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2009,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2010,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2011,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2012,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2013,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2014,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2015,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2016,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2017,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2018,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2019,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2020,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2021,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2022,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2023,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2024,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2025,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2026,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2027,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2028,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2029,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2030,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2031,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2032,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2033,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2034,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2035,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2036,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2037,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2038,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2039,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2040,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2041,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2042,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2043,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2044,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2045,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2046,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2047,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2048,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2049,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2050,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2051,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2052,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2053,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2054,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2055,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2056,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2057,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2058,
+      "cycleSeconds": null,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    },
+    {
+      "productCode": 2059,
+      "cycleSeconds": 30,
+      "setupMinutes": null,
+      "stopToleranceMinutes": null,
+      "active": true
+    }
+  ],
+  "orders": [
+    {
+      "orderId": 50001,
+      "productCode": 1001,
+      "line": "LINE-A",
+      "situation": "E",
+      "quantity": 1000
+    },
+    {
+      "orderId": 50002,
+      "productCode": 1001,
+      "line": "LINE-A",
+      "situation": "F",
+      "quantity": 400
+    },
+    {
+      "orderId": 50003,
+      "productCode": 1001,
+      "line": "LINE-A",
+      "situation": "P",
+      "quantity": 800
+    },
+    {
+      "orderId": 50004,
+      "productCode": 1002,
+      "line": "LINE-B",
+      "situation": "E",
+      "quantity": 1000
+    },
+    {
+      "orderId": 50005,
+      "productCode": 1002,
+      "line": "LINE-B",
+      "situation": "F",
+      "quantity": 800
+    },
+    {
+      "orderId": 50006,
+      "productCode": 1003,
+      "line": "LINE-C",
+      "situation": "A",
+      "quantity": 800
+    },
+    {
+      "orderId": 50007,
+      "productCode": 1003,
+      "line": "LINE-C",
+      "situation": "D",
+      "quantity": 800
+    },
+    {
+      "orderId": 50008,
+      "productCode": 1004,
+      "line": "LINE-D",
+      "situation": "E",
+      "quantity": 800
+    },
+    {
+      "orderId": 50009,
+      "productCode": 1004,
+      "line": "LINE-D",
+      "situation": "D",
+      "quantity": 400
+    },
+    {
+      "orderId": 50010,
+      "productCode": 1004,
+      "line": "LINE-D",
+      "situation": "P",
+      "quantity": 400
+    },
+    {
+      "orderId": 50011,
+      "productCode": 1005,
+      "line": "LINE-A",
+      "situation": "A",
+      "quantity": 400
+    },
+    {
+      "orderId": 50012,
+      "productCode": 1005,
+      "line": "LINE-A",
+      "situation": "D",
+      "quantity": 500
+    },
+    {
+      "orderId": 50013,
+      "productCode": 1006,
+      "line": "LINE-B",
+      "situation": "E",
+      "quantity": 200
+    },
+    {
+      "orderId": 50014,
+      "productCode": 1006,
+      "line": "LINE-B",
+      "situation": "D",
+      "quantity": 200
+    },
+    {
+      "orderId": 50015,
+      "productCode": 1007,
+      "line": "LINE-C",
+      "situation": "E",
+      "quantity": 400
+    },
+    {
+      "orderId": 50016,
+      "productCode": 1007,
+      "line": "LINE-C",
+      "situation": "D",
+      "quantity": 500
+    },
+    {
+      "orderId": 50017,
+      "productCode": 1007,
+      "line": "LINE-C",
+      "situation": "P",
+      "quantity": 200
+    },
+    {
+      "orderId": 50018,
+      "productCode": 1008,
+      "line": "LINE-D",
+      "situation": "C",
+      "quantity": 1000
+    },
+    {
+      "orderId": 50019,
+      "productCode": 1008,
+      "line": "LINE-D",
+      "situation": "F",
+      "quantity": 400
+    },
+    {
+      "orderId": 50020,
+      "productCode": 1009,
+      "line": "LINE-A",
+      "situation": "E",
+      "quantity": 500
+    },
+    {
+      "orderId": 50021,
+      "productCode": 1009,
+      "line": "LINE-A",
+      "situation": "F",
+      "quantity": 1000
+    },
+    {
+      "orderId": 50022,
+      "productCode": 1010,
+      "line": "LINE-B",
+      "situation": "A",
+      "quantity": 800
+    },
+    {
+      "orderId": 50023,
+      "productCode": 1010,
+      "line": "LINE-B",
+      "situation": "D",
+      "quantity": 200
+    },
+    {
+      "orderId": 50024,
+      "productCode": 1010,
+      "line": "LINE-B",
+      "situation": "R",
+      "quantity": 800
+    },
+    {
+      "orderId": 50025,
+      "productCode": 1011,
+      "line": "LINE-C",
+      "situation": "A",
+      "quantity": 800
+    },
+    {
+      "orderId": 50026,
+      "productCode": 1011,
+      "line": "LINE-C",
+      "situation": "F",
+      "quantity": 200
+    },
+    {
+      "orderId": 50027,
+      "productCode": 1012,
+      "line": "LINE-D",
+      "situation": "C",
+      "quantity": 200
+    },
+    {
+      "orderId": 50028,
+      "productCode": 1012,
+      "line": "LINE-D",
+      "situation": "F",
+      "quantity": 1200
+    },
+    {
+      "orderId": 50029,
+      "productCode": 1013,
+      "line": "LINE-A",
+      "situation": "A",
+      "quantity": 800
+    },
+    {
+      "orderId": 50030,
+      "productCode": 1013,
+      "line": "LINE-A",
+      "situation": "D",
+      "quantity": 1000
+    },
+    {
+      "orderId": 50031,
+      "productCode": 1013,
+      "line": "LINE-A",
+      "situation": "P",
+      "quantity": 400
+    },
+    {
+      "orderId": 50032,
+      "productCode": 1014,
+      "line": "LINE-B",
+      "situation": "E",
+      "quantity": 500
+    },
+    {
+      "orderId": 50033,
+      "productCode": 1014,
+      "line": "LINE-B",
+      "situation": "D",
+      "quantity": 1200
+    },
+    {
+      "orderId": 50034,
+      "productCode": 1015,
+      "line": "LINE-C",
+      "situation": "E",
+      "quantity": 200
+    },
+    {
+      "orderId": 50035,
+      "productCode": 1015,
+      "line": "LINE-C",
+      "situation": "F",
+      "quantity": 1200
+    },
+    {
+      "orderId": 50036,
+      "productCode": 1016,
+      "line": "LINE-D",
+      "situation": "C",
+      "quantity": 1200
+    },
+    {
+      "orderId": 50037,
+      "productCode": 1016,
+      "line": "LINE-D",
+      "situation": "F",
+      "quantity": 1000
+    },
+    {
+      "orderId": 50038,
+      "productCode": 1016,
+      "line": "LINE-D",
+      "situation": "R",
+      "quantity": 400
+    },
+    {
+      "orderId": 50039,
+      "productCode": 1017,
+      "line": "LINE-A",
+      "situation": "A",
+      "quantity": 400
+    },
+    {
+      "orderId": 50040,
+      "productCode": 1017,
+      "line": "LINE-A",
+      "situation": "F",
+      "quantity": 1200
+    },
+    {
+      "orderId": 50041,
+      "productCode": 1018,
+      "line": "LINE-B",
+      "situation": "C",
+      "quantity": 1000
+    },
+    {
+      "orderId": 50042,
+      "productCode": 1018,
+      "line": "LINE-B",
+      "situation": "D",
+      "quantity": 400
+    },
+    {
+      "orderId": 50043,
+      "productCode": 1019,
+      "line": "LINE-C",
+      "situation": "A",
+      "quantity": 1200
+    },
+    {
+      "orderId": 50044,
+      "productCode": 1019,
+      "line": "LINE-C",
+      "situation": "D",
+      "quantity": 400
+    },
+    {
+      "orderId": 50045,
+      "productCode": 1019,
+      "line": "LINE-C",
+      "situation": "R",
+      "quantity": 500
+    },
+    {
+      "orderId": 50046,
+      "productCode": 1020,
+      "line": "LINE-D",
+      "situation": "E",
+      "quantity": 200
+    },
+    {
+      "orderId": 50047,
+      "productCode": 1020,
+      "line": "LINE-D",
+      "situation": "D",
+      "quantity": 500
+    },
+    {
+      "orderId": 50048,
+      "productCode": 1021,
+      "line": "LINE-A",
+      "situation": "A",
+      "quantity": 500
+    },
+    {
+      "orderId": 50049,
+      "productCode": 1021,
+      "line": "LINE-A",
+      "situation": "D",
+      "quantity": 1200
+    },
+    {
+      "orderId": 50050,
+      "productCode": 1022,
+      "line": "LINE-B",
+      "situation": "E",
+      "quantity": 500
+    },
+    {
+      "orderId": 50051,
+      "productCode": 1022,
+      "line": "LINE-B",
+      "situation": "F",
+      "quantity": 1200
+    },
+    {
+      "orderId": 50052,
+      "productCode": 1022,
+      "line": "LINE-B",
+      "situation": "R",
+      "quantity": 500
+    },
+    {
+      "orderId": 50053,
+      "productCode": 1023,
+      "line": "LINE-C",
+      "situation": "C",
+      "quantity": 400
+    },
+    {
+      "orderId": 50054,
+      "productCode": 1023,
+      "line": "LINE-C",
+      "situation": "D",
+      "quantity": 400
+    },
+    {
+      "orderId": 50055,
+      "productCode": 1024,
+      "line": "LINE-D",
+      "situation": "A",
+      "quantity": 400
+    },
+    {
+      "orderId": 50056,
+      "productCode": 1024,
+      "line": "LINE-D",
+      "situation": "F",
+      "quantity": 400
+    },
+    {
+      "orderId": 50057,
+      "productCode": 1101,
+      "line": "LINE-B",
+      "situation": "A",
+      "quantity": 800
+    },
+    {
+      "orderId": 50058,
+      "productCode": 1102,
+      "line": "LINE-C",
+      "situation": "C",
+      "quantity": 1000
+    },
+    {
+      "orderId": 50059,
+      "productCode": 1102,
+      "line": "LINE-C",
+      "situation": "E",
+      "quantity": 1000
+    },
+    {
+      "orderId": 50060,
+      "productCode": 1201,
+      "line": "LINE-A",
+      "situation": "F",
+      "quantity": 200
+    },
+    {
+      "orderId": 50061,
+      "productCode": 1202,
+      "line": "LINE-D",
+      "situation": "D",
+      "quantity": 800
+    },
+    {
+      "orderId": 50062,
+      "productCode": 1201,
+      "line": "LINE-A",
+      "situation": "D",
+      "quantity": 1200
+    },
+    {
+      "orderId": 50063,
+      "productCode": 1001,
+      "line": "LINE-X",
+      "situation": "C",
+      "quantity": 500
+    },
+    {
+      "orderId": 50064,
+      "productCode": 1002,
+      "line": "LINE-X",
+      "situation": "C",
+      "quantity": 1200
+    },
+    {
+      "orderId": 50065,
+      "productCode": 1003,
+      "line": "LINE-X",
+      "situation": "C",
+      "quantity": 200
+    },
+    {
+      "orderId": 50066,
+      "productCode": 1004,
+      "line": "LINE-X",
+      "situation": "C",
+      "quantity": 1200
+    },
+    {
+      "orderId": 50067,
+      "productCode": 1005,
+      "line": "LINE-X",
+      "situation": "C",
+      "quantity": 200
+    }
+  ]
+}

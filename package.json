@@ -1,0 +1,22 @@
+{
+  "name": "case-erp-mes-integration",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Product case: a production data contract between ERP and shop floor (MES), rebuilt with fictional data",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "readiness": "tsx scripts/readiness-report.ts",
+    "sync:plan": "tsx scripts/sync-plan.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  }
+}
