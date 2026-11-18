@@ -69,6 +69,8 @@ tested first, by writing the contract and asking both vendors to build to it.
 | Metric | Type |
 |---|---|
 | Lines running on the MES (none before) | Business outcome |
+| Planned against actual cycle, per order | Business outcome (MES return) |
+| Days to see cost variance per order (month close before) | Business outcome (finance) |
 | Production data latency (monthly before) | North star |
 | Synchronization between ERP and MES | Quality |
 | Orders reaching the floor with no manual touch | Adoption |

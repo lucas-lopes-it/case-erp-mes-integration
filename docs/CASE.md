@@ -73,12 +73,20 @@ live there and changed the pointer later to make it official. The integration wa
   stops recorded by reason, documents from the ERP on the floor, and planning managing from it
   instead of from spreadsheets.
 - Production data went from **monthly to every 5 minutes**. Management stopped waiting for the end
-  of the month to know what the floor had made.
+  of the month to know what the floor had made, and finance started seeing the gap between planned
+  and actual cost of an order the same day, instead of at month close through allocation.
+- The investment became measurable. Planned against actual cycle is now visible order by order, with
+  gaps of up to 19x, which is the data the plant needs to calculate the return on the MES without
+  estimating it.
 - About **77 orders a day** reach the floor with no manual touch, across 10 lines. The first phase
   alone synchronized 815 orders, at **99.97%** synchronization between the ERP and the MES.
-- The plant could measure its own efficiency for the first time from source data. With planning, we
-  closed the first OEE: 1,932.5 productive hours against 15.9 hours of unplanned stops, 736,727
-  units, 14,428 stops tracked by reason.
+- The plant could measure its own efficiency for the first time from source data. In 3 months,
+  736,727 units and 14,428 stops were tracked by reason, data that did not exist in digital form
+  before. With planning, we closed the first OEE: 1,932.5 productive hours against 15.9 hours of
+  unplanned stops.
+- The relationship with the MES vendor changed too: reconciliation between the two systems became
+  automatic, with an auditable error rate and zero duplicated orders even on reprocessing, instead
+  of a manual check.
 - Stock started to reflect what the floor produced, as it was produced.
 
 ## Where "everything" meant two different things

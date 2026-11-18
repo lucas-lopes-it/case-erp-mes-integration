@@ -19,17 +19,30 @@ scope, with both vendors building to it. The full story, in first person, is in
 
 ## Outcome
 
-- **The MES investment started to pay off.** The system the company bought for planning went from
-  receiving no orders to running the integrated lines: orders on the terminal, stops recorded by
-  reason, production documents from the ERP, and the plant's first OEE from source data.
+- **The MES investment started to pay off, and became measurable.** The system the company bought
+  for planning went from receiving no orders to running 10 lines. Planned against actual cycle is
+  now visible order by order, with gaps of up to 19x, so the return on the MES can be calculated
+  from data instead of estimated.
+- **Cost variance seen the same day, not at month close.** The difference between planned and
+  actual cost of an order used to surface when the month closed. With data every 5 minutes, finance
+  sees it the same day, per order, instead of through a generic allocation.
 - **Production data went from monthly to every 5 minutes.** What the floor produced used to reach
   management once a month, by hand. Now it arrives every 5 minutes, with no one retyping it.
 - **About 77 orders a day reach the floor with no manual touch**, across 10 integrated lines.
-- **The plant can measure its own efficiency.** With planning, the floor's data closed the first OEE
-  from source: 1,932.5 productive hours against 15.9 hours of unplanned stops, 736,727 units, and
-  14,428 stops tracked by reason.
+- **The plant can measure its own efficiency.** In 3 months, 736,727 units and 14,428 stops were
+  tracked by reason, data that did not exist in digital form before. With planning, it closed the
+  first OEE from source: 1,932.5 productive hours against 15.9 hours of unplanned stops.
 - **Live in 21 days** after almost six months blocked between the ERP and MES vendors, with **99.97%
   synchronization** between the two systems.
+
+### Impact by stakeholder
+
+| Who | Before | After |
+|---|---|---|
+| **Leadership** | A MES already paid for, with no orders in it, and the floor invisible between month closes | 10 lines on the MES, every unit and stop tracked, and an OEE built from source data |
+| **Finance** | Planned against actual cost per order known only at month close, through allocation | Variance visible the same day, order by order, and a data base to calculate the MES return without estimates |
+| **Commercial** | Delivery dates promised on theoretical capacity | Execution data in the ERP every 5 minutes, available to replan within the same cycle |
+| **Vendor management** | ERP and MES reconciled by hand, with no shared error rate | Automatic reconciliation and an auditable error rate in the contract with the MES vendor, with zero duplicated orders even on reprocessing |
 
 ## The problem
 
@@ -84,6 +97,7 @@ integration was in production 21 days later.
 | Metric | Question it answers | Status |
 |---|---|---|
 | Lines running on the MES | Is the MES investment being used? | **Measured:** 10 lines, from none |
+| Planned against actual cycle, per order | Can the MES return be calculated? | **Measured:** gaps of up to 19x, visible order by order |
 | Production data latency | How fresh is what management sees? (north star) | **Measured:** from monthly to every 5 minutes |
 | Orders reaching the floor with no manual touch | Did retyping end? | **Measured:** about 77 a day, 10 lines |
 | Synchronization between ERP and MES | Does the floor see what the ERP says? | **Measured:** 99.97% |
