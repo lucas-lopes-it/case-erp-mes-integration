@@ -13,8 +13,9 @@ stuck between the two vendors, and no order ever reached the MES. It went live 2
 ownership of the one thing nobody owned: the definition of what crosses from one system to the other.
 Production data went from monthly to every 5 minutes.
 
-My role: Product Manager for the integration, owning the contract, the go-live decision and the
-scope, with both vendors building to it. The full story, in first person, is in
+My role: Product Manager & Builder. I owned the contract, the go-live decision and the scope, and
+built the integration layer between the two vendors (orchestration, idempotent state and alerts in
+the team chat), with production planning owning the business rules. The full story, in first person, is in
 [docs/CASE.md](docs/CASE.md), and the PRD in [docs/PRD.md](docs/PRD.md).
 
 ## Outcome

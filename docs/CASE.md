@@ -48,6 +48,11 @@ Three rules came out of conversations with production planning, not from the sys
 - **No made-up numbers on the floor.** If a product has no cycle, setup or stop time, the order
   waits for its data. A default time on the operator's terminal is worse than an order that waits.
 
+With the contract written, I built the layer between the two systems myself: orchestration that
+reads the ERP and calls the MES, a state store so the integration remembers what it already sent,
+and alerts in the team chat when an order is held. Each vendor kept its own side; the space in
+between finally had an owner and a builder.
+
 ## Asking the right go-live question
 
 Before go-live, the first check said over a hundred products had no times. It looked like weeks of
