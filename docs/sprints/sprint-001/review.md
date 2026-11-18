@@ -20,8 +20,8 @@ and put production orders on the floor without retyping.
 ## Numbers
 
 - 21 days from taking over the definition to production, after about four months blocked.
-- 815 orders synchronized in the first phase.
-- 99.97% synchronization between ERP and MES.
+- Production data from monthly to every 5 minutes.
+- 815 orders synchronized in the first phase, at 99.97% synchronization between ERP and MES.
 
 ## Left for later
 

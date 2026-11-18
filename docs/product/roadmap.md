@@ -26,9 +26,12 @@ through the contract first.
 | Setup time per line | Next | |
 | Number of operators per order | Next | |
 | Raw-material photos uploaded by planning directly in the MES | Waiting on vendor | |
-| Integration availability above the first measured period | Next | |
+| Workflow uptime above the first measured period (90.2%) | Next | |
 
 ## Next
+
+The stories behind each item, with acceptance criteria and vendor dependencies, are in the
+[backlog](../BACKLOG.md).
 
 ### Setup time per line
 

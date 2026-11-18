@@ -8,7 +8,7 @@
 > ERP (Sankhya on Oracle) and the MES (Syneco) are represented by their contract, not by their code.
 
 An integration between the ERP and the shop floor that had been stuck between two vendors for four
-months. It went live 21 days after I took ownership of the one thing nobody owned: the definition of
+months. It took production data from monthly to every 5 minutes, and went live 21 days after I took ownership of the one thing nobody owned: the definition of
 what crosses from one system to the other.
 
 My role: Product Manager for the integration, owning the contract, the go-live decision and the
@@ -17,11 +17,14 @@ scope, with both vendors building to it. The full story, in first person, is in
 
 ## Outcome
 
-- **Live in 21 days** after about four months blocked between the ERP and MES vendors.
-- **99.97% synchronization** between the ERP and the shop floor.
-- **815 production orders** synchronized in the first phase.
-- **Manual production recording ended** in the integrated lines, and the production records became
-  a live management view instead of dead data.
+- **Production data went from monthly to every 5 minutes.** What the floor produced used to reach
+  management once a month, by hand. Now it arrives every 5 minutes, with no one retyping it.
+- **About 77 orders a day reach the floor with no manual touch**, across 10 integrated lines.
+- **The plant can measure its own efficiency.** With planning, the floor's data closed the first OEE
+  from source: 1,932.5 productive hours against 15.9 hours of unplanned stops, 736,727 units, and
+  14,428 stops tracked by reason.
+- **Live in 21 days** after about four months blocked between the ERP and MES vendors, with **99.97%
+  synchronization** between the two systems.
 
 ## The problem
 
@@ -75,11 +78,13 @@ integration was in production 21 days later.
 
 | Metric | Question it answers | Status |
 |---|---|---|
-| Synchronization between ERP and MES | Does the floor see what the ERP says? (north star) | **Measured in production:** 99.97% |
+| Production data latency | How fresh is what management sees? (north star) | **Measured:** from monthly to every 5 minutes |
+| Orders reaching the floor with no manual touch | Did retyping end? | **Measured:** about 77 a day, 10 lines |
+| Synchronization between ERP and MES | Does the floor see what the ERP says? | **Measured:** 99.97% |
+| Stops tracked by reason | Can the plant explain its downtime? | **Measured:** 14,428 stops; 15.9 h unplanned against 1,932.5 h productive |
 | Time from definition to production | Did owning the contract unblock it? | **Measured:** 21 days, after about four months blocked |
-| Orders synchronized | Is the floor using it? | **Measured:** 815 in the first phase |
-| Integration availability | Is it there when the floor needs it? | **Measured:** 90.2% in the first period; the next thing to raise |
-| Manual production records in integrated lines | Did retyping end? | **Achieved**, not quantified |
+| Orders synchronized | Did the first phase land? | **Measured:** 815 in phase 1 |
+| Workflow uptime | Do the integration runs themselves stay up? | **Measured:** 90.2% for the workflows (not the machines); target set for the next phase |
 | Held orders and time to release them | Is the data good enough to send? | **Rebuilt here:** every hold carries the field that failed |
 
 ## Thesis
@@ -140,6 +145,7 @@ That last line is decision P5 in one sentence.
 - [docs/PRD.md](docs/PRD.md): problem, users, requirements, metrics and risks
 - [docs/CONTRACT.md](docs/CONTRACT.md): what crosses the boundary, and who owns each part
 - [docs/product/roadmap.md](docs/product/roadmap.md): roadmap by capability
+- [docs/BACKLOG.md](docs/BACKLOG.md): two epics, stories with Given/When/Then, vendor dependencies and priority
 
 **How I think**
 - [docs/vision/vision.md](docs/vision/vision.md): mission and direction

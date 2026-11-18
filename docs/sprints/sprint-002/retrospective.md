@@ -18,7 +18,7 @@ criterion anyone could rerun, and it surfaced the 16 products with no raw materi
 ### The formula's line was misleading
 
 Many formulas have no line set. Scoping by the formula's line would have dropped them. The order's
-line was the right field, and it took a wrong first cut to see it.
+line was the right field, and the readiness check now uses it everywhere.
 
 ### Parts with the same description
 

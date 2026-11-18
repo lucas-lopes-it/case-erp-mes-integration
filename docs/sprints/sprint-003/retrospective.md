@@ -16,10 +16,10 @@ already have.
 
 ## What could improve
 
-### "Everything" should never have been said
+### An informal promise carried two scopes
 
-I said I would take care of "everything". To me, that meant the ERP documents. To IT and planning, it
-also meant the photos. The misunderstanding was mine to prevent.
+The commitment to cover "everything" meant the ERP documents for the integration, and also the
+photos for IT and planning. Nobody was wrong; the scope just wasn't written next to the promise.
 
 ## What changed
 

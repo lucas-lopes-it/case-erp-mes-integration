@@ -26,12 +26,13 @@ that saved the most time.
 The first version also sent orders in situation P. A few hundred of them reached the floor too
 early. The rule was right only after production planning reviewed it.
 
-### Availability had no target
+### Workflow uptime needs its own target
 
-Synchronization had a clear number from day one. Availability came in at 90.2% in the first
-measured period, and there was no target to compare it with.
+Synchronization had a clear number from day one. The uptime of the integration workflows (90.2% in
+the first measured period) is a different measure from the machines' availability, and it needs its
+own target so the two are never read as one.
 
 ## What changed
 
 - Rules about what the floor sees are validated with production planning before they ship.
-- Availability has a target in the roadmap.
+- Workflow uptime has its own target in the roadmap, separate from machine availability.

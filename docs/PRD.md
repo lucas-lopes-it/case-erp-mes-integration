@@ -66,12 +66,13 @@ tested first, by writing the contract and asking both vendors to build to it.
 
 | Metric | Type |
 |---|---|
-| Synchronization between ERP and MES | North star |
+| Production data latency (monthly before) | North star |
+| Synchronization between ERP and MES | Quality |
+| Orders reaching the floor with no manual touch | Adoption |
+| Stops tracked by reason | Outcome |
 | Time from definition to production | Delivery |
-| Orders synchronized | Adoption |
 | Held orders and time to release them | Data quality |
-| Integration availability | Health |
-| Manual production records in integrated lines | Outcome |
+| Workflow uptime | Health |
 
 ## Risks
 

@@ -33,5 +33,5 @@ down costs one message. Not writing it costs trust.
 
 ## The rule belongs to the people who know it
 
-Production planning knew which orders mattered to the floor. My first version got it wrong. The
-product work was putting their rule in a place where both systems had to follow it.
+Production planning knew which orders mattered to the floor. The rule settled the moment they owned
+it. The product work was putting their rule in a place where both systems had to follow it.

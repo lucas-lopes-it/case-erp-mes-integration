@@ -4,7 +4,7 @@
 
 ### What happened
 
-I promised to cover "everything" in the documents for the terminal. Each team heard its own version.
+The commitment was to cover "everything" in the documents for the terminal. Each team heard its own version.
 Nobody was wrong; the word just didn't carry a scope.
 
 ### Why this matters for product people
