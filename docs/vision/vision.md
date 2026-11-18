@@ -14,7 +14,7 @@ project waits, and the factory keeps retyping.
 
 The usual answers don't solve it:
 
-- escalate to both vendors: it had already been tried for four months;
+- escalate to both vendors: it had already been tried for almost six months;
 - give one vendor the whole integration: it moves the dependency without defining anything;
 - add a middleware product: it connects systems that still disagree on what they mean.
 

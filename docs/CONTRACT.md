@@ -1,7 +1,7 @@
 # The contract
 
 What crosses the boundary between the ERP and the shop floor, and who owns each part of it. This is
-the document that was missing for four months. The rules marked as rebuilt have tests in this
+the document that was missing for almost six months. The rules marked as rebuilt have tests in this
 repository.
 
 ## Parties

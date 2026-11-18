@@ -4,7 +4,7 @@
 
 ## Goal
 
-Unblock an integration that had been stuck between the ERP and MES vendors for about four months,
+Unblock an integration that had been stuck between the ERP and MES vendors for almost six months,
 and put production orders on the floor without retyping.
 
 ## What shipped
@@ -19,7 +19,7 @@ and put production orders on the floor without retyping.
 
 ## Numbers
 
-- 21 days from taking over the definition to production, after about four months blocked.
+- 21 days from taking over the definition to production, after almost six months blocked.
 - Production data from monthly to every 5 minutes.
 - 815 orders synchronized in the first phase, at 99.97% synchronization between ERP and MES.
 

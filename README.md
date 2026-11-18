@@ -7,7 +7,7 @@
 > or customer information** from the real environment. Products, orders and lines are fictional. The
 > ERP (Sankhya on Oracle) and the MES (Syneco) are represented by their contract, not by their code.
 
-An integration between the ERP and the shop floor that had been stuck between two vendors for four
+An integration between the ERP and the shop floor that had been stuck between two vendors for almost six
 months. It took production data from monthly to every 5 minutes, and went live 21 days after I took ownership of the one thing nobody owned: the definition of
 what crosses from one system to the other.
 
@@ -23,7 +23,7 @@ scope, with both vendors building to it. The full story, in first person, is in
 - **The plant can measure its own efficiency.** With planning, the floor's data closed the first OEE
   from source: 1,932.5 productive hours against 15.9 hours of unplanned stops, 736,727 units, and
   14,428 stops tracked by reason.
-- **Live in 21 days** after about four months blocked between the ERP and MES vendors, with **99.97%
+- **Live in 21 days** after almost six months blocked between the ERP and MES vendors, with **99.97%
   synchronization** between the two systems.
 
 ## The problem
@@ -82,7 +82,7 @@ integration was in production 21 days later.
 | Orders reaching the floor with no manual touch | Did retyping end? | **Measured:** about 77 a day, 10 lines |
 | Synchronization between ERP and MES | Does the floor see what the ERP says? | **Measured:** 99.97% |
 | Stops tracked by reason | Can the plant explain its downtime? | **Measured:** 14,428 stops; 15.9 h unplanned against 1,932.5 h productive |
-| Time from definition to production | Did owning the contract unblock it? | **Measured:** 21 days, after about four months blocked |
+| Time from definition to production | Did owning the contract unblock it? | **Measured:** 21 days, after almost six months blocked |
 | Orders synchronized | Did the first phase land? | **Measured:** 815 in phase 1 |
 | Workflow uptime | Do the integration runs themselves stay up? | **Measured:** 90.2% for the workflows (not the machines); target set for the next phase |
 | Held orders and time to release them | Is the data good enough to send? | **Rebuilt here:** every hold carries the field that failed |

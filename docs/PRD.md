@@ -8,7 +8,7 @@
 
 Ventisol manufactures fans and air conditioners. Production orders live in the ERP (Sankhya on
 Oracle). The shop floor runs on a MES (Syneco, by SKA). The integration between them had been stuck
-between the two vendors for about four months.
+between the two vendors for almost six months.
 
 ## Problem
 

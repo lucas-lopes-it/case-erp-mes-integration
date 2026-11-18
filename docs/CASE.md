@@ -3,13 +3,13 @@
 The product story in first person. The decisions are detailed in [DECISIONS.md](DECISIONS.md), the
 contract in [CONTRACT.md](CONTRACT.md), and the code that rebuilds its rules is in this repository.
 
-## Four months of two systems that didn't talk
+## Almost six months of two systems that didn't talk
 
 Ventisol makes fans and air conditioners in Santa Catarina, Brazil. The ERP (Sankhya, on Oracle)
 holds the production orders. The shop floor runs on a MES (Syneco, from the vendor SKA), where
 operators see what to produce, record what they produced and report stops.
 
-When I arrived, the integration between the two had been stuck for about four months. Each vendor
+When I arrived, the integration between the two had been stuck for almost six months. Each vendor
 had its side ready and each one pointed at the other. Meanwhile production was recorded by hand,
 the ERP learned what the factory had made only at the end of the day, and the production records
 that existed were dead data: written down, never used to manage anything.

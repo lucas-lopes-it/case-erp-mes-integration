@@ -4,7 +4,7 @@
 
 ### What happened
 
-Two vendors, each with its side ready, each pointing at the other, for four months. Nothing on
+Two vendors, each with its side ready, each pointing at the other, for almost six months. Nothing on
 either side was technically missing. What was missing was a definition of what crosses between them,
 and someone with the authority to decide when they disagreed.
 

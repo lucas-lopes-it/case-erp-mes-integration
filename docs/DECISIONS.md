@@ -14,7 +14,7 @@ integration was built. For A decisions, the status shows what this repository re
 with which fields, who decides when it is wrong) and leave each vendor responsible for its own side.
 
 **Alternatives**
-- Escalate to both vendors and wait for them to agree. It had already been tried for four months.
+- Escalate to both vendors and wait for them to agree. It had already been tried for almost six months.
 - Ask one vendor to own the whole integration. It moves the problem without defining it, and makes
   the client dependent on that vendor for every future change.
 - Build both sides internally. Fastest on paper, but it takes on code that two vendors already
