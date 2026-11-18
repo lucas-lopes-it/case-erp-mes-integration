@@ -12,7 +12,8 @@ between the two vendors for almost six months.
 
 ## Problem
 
-The floor didn't receive orders from the ERP, so production was recorded by hand and the ERP learned
+The company had invested in a MES so production planning could run the floor from it, and for
+almost six months the MES received no orders. The floor didn't receive orders from the ERP, so production was recorded by hand and the ERP learned
 what had been produced late. The production records that existed were never used to manage the
 floor. Neither vendor owned the definition of what should cross from one system to the other.
 
@@ -22,14 +23,15 @@ floor. Neither vendor owned the definition of what should cross from one system 
 |---|---|---|
 | Production planning | Release orders and keep times and catalog right | Retypes what the ERP already knows; can't see the floor in real time |
 | Operator and supervisor | Produce what is due and record stops | Works from paper or retyped orders; can't trust what the terminal shows |
-| Plant management | Know what was produced and why it stopped | Gets yesterday's numbers, built by hand |
+| Plant management | Know what was produced and why it stopped | Gets last month's numbers, built by hand |
 | IT | Keep both systems running | Caught between two vendors with no shared definition |
 
 ## Goals
 
-1. Live production orders reach the floor without retyping.
-2. What the floor sees matches the ERP, and the mismatch is measured.
-3. Manual production recording ends in the integrated lines.
+1. Make the MES investment work for production planning, line by line.
+2. Live production orders reach the floor without retyping.
+3. What the floor sees matches the ERP, and the mismatch is measured.
+4. Manual production recording ends in the integrated lines.
 
 ## Out of scope
 
@@ -66,6 +68,7 @@ tested first, by writing the contract and asking both vendors to build to it.
 
 | Metric | Type |
 |---|---|
+| Lines running on the MES (none before) | Business outcome |
 | Production data latency (monthly before) | North star |
 | Synchronization between ERP and MES | Quality |
 | Orders reaching the floor with no manual touch | Adoption |

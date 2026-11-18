@@ -7,9 +7,11 @@
 > or customer information** from the real environment. Products, orders and lines are fictional. The
 > ERP (Sankhya on Oracle) and the MES (Syneco) are represented by their contract, not by their code.
 
-An integration between the ERP and the shop floor that had been stuck between two vendors for almost six
-months. It took production data from monthly to every 5 minutes, and went live 21 days after I took ownership of the one thing nobody owned: the definition of
-what crosses from one system to the other.
+Ventisol had already invested in a MES (Syneco, from SKA) so production planning could run the floor
+from it. For almost six months that investment returned nothing: the integration with the ERP was
+stuck between the two vendors, and no order ever reached the MES. It went live 21 days after I took
+ownership of the one thing nobody owned: the definition of what crosses from one system to the other.
+Production data went from monthly to every 5 minutes.
 
 My role: Product Manager for the integration, owning the contract, the go-live decision and the
 scope, with both vendors building to it. The full story, in first person, is in
@@ -17,6 +19,9 @@ scope, with both vendors building to it. The full story, in first person, is in
 
 ## Outcome
 
+- **The MES investment started to pay off.** The system the company bought for planning went from
+  receiving no orders to running the integrated lines: orders on the terminal, stops recorded by
+  reason, production documents from the ERP, and the plant's first OEE from source data.
 - **Production data went from monthly to every 5 minutes.** What the floor produced used to reach
   management once a month, by hand. Now it arrives every 5 minutes, with no one retyping it.
 - **About 77 orders a day reach the floor with no manual touch**, across 10 integrated lines.
@@ -42,7 +47,7 @@ integration wasn't late. It was undefined.
 |---|---|---|
 | **Production planning** | Releases orders, keeps times and catalog right | Orders on the floor without retyping, and a clear list of what blocks them |
 | **Operator and supervisor** | Produces what is due, records stops | A terminal that shows only what can be produced now, with real times |
-| **Plant management** | Follows output and stops | Today's numbers, not yesterday's spreadsheet |
+| **Plant management** | Follows output and stops | Today's numbers, not last month's spreadsheet |
 | **IT and both vendors** | Keep each system running | One definition both sides build to |
 
 ## The hypothesis and how it was tested
@@ -78,6 +83,7 @@ integration was in production 21 days later.
 
 | Metric | Question it answers | Status |
 |---|---|---|
+| Lines running on the MES | Is the MES investment being used? | **Measured:** 10 lines, from none |
 | Production data latency | How fresh is what management sees? (north star) | **Measured:** from monthly to every 5 minutes |
 | Orders reaching the floor with no manual touch | Did retyping end? | **Measured:** about 77 a day, 10 lines |
 | Synchronization between ERP and MES | Does the floor see what the ERP says? | **Measured:** 99.97% |

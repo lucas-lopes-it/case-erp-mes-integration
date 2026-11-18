@@ -9,10 +9,15 @@ Ventisol makes fans and air conditioners in Santa Catarina, Brazil. The ERP (San
 holds the production orders. The shop floor runs on a MES (Syneco, from the vendor SKA), where
 operators see what to produce, record what they produced and report stops.
 
-When I arrived, the integration between the two had been stuck for almost six months. Each vendor
-had its side ready and each one pointed at the other. Meanwhile production was recorded by hand,
-the ERP learned what the factory had made only at the end of the day, and the production records
-that existed were dead data: written down, never used to manage anything.
+The company had already invested in the MES so production planning could run the floor from it.
+When I arrived, the integration with the ERP had been stuck for almost six months. Each vendor had
+its side ready and each one pointed at the other. No order reached the MES, so the investment sat
+idle and planning kept doing by hand what it had bought the system to do. Production was recorded
+manually, management saw it once a month, and the production records that existed were dead data:
+written down, never used to manage anything.
+
+That was the real cost of the delay. Not a late project, but a system already paid for that the
+plant could not use.
 
 ## What Melvin Conway had already written in 1968
 
@@ -64,6 +69,9 @@ live there and changed the pointer later to make it official. The integration wa
 
 ## What changed
 
+- The MES the company had invested in started doing what it was bought for: orders on the terminal,
+  stops recorded by reason, documents from the ERP on the floor, and planning managing from it
+  instead of from spreadsheets.
 - Production data went from **monthly to every 5 minutes**. Management stopped waiting for the end
   of the month to know what the floor had made.
 - About **77 orders a day** reach the floor with no manual touch, across 10 lines. The first phase
